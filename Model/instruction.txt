@@ -1,0 +1,5 @@
+
+* Attention
+
+'model528w_msDsH2_constP' and 'model5280' are the same DNN Model,
+while the former is a pytorch-version and 'demoFortran.F' reads the latter.
