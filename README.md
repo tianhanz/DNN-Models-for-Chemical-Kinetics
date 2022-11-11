@@ -6,4 +6,4 @@ Please let me know if you are interested in the collaboration or have any questi
 
 Reference
 
-[1]. A multi-scale sampling , for accurate and robust deep neural network to predict combustion chemical kinetics, Tianhan Zhang*, Yuxiao Yi, Zhiqin J Xu*, et al., Combustion and Flame, 245, https://doi.org/10.1016/j.combustflame.2022.112319
+[1]. A multi-scale sampling for accurate and robust deep neural network to predict combustion chemical kinetics, Tianhan Zhang*, Yuxiao Yi, Zhiqin J Xu*, et al., Combustion and Flame, 245, https://doi.org/10.1016/j.combustflame.2022.112319
