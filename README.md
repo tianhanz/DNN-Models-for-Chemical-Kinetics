@@ -1,5 +1,5 @@
 # DNN Models for Chemical Kinetics
-This repository contains Deep Neural Network (DNN) models for predicting chemical kinetics in hydrogen/air combustion systems, as detailed in our peer-reviewed publication.
+This repository contains Deep Neural Network (DNN) models for predicting chemical kinetics in combustion systems, as detailed in our peer-reviewed publication.
 
 ## Overview
 - Implementation available in both Python and Fortran
