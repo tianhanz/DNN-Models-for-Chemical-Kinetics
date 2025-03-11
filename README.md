@@ -20,7 +20,8 @@ This repository contains Deep Neural Network (DNN) models for predicting chemica
 [1] Zhang, T., Yi, Y., Xu, Z.J., et al. "A multi-scale sampling for accurate and robust deep neural network to predict combustion chemical kinetics," Combustion and Flame, 245, 2022.
 https://doi.org/10.1016/j.combustflame.2022.112319
 
-[2] Wang, T., Yi, Y., Yao, J., Xu, Z.J., Zhang, T., Chen, Z., "Enforcing Physical Conservation in Neural Network Surrogate Models for Complex Chemical Kinetics," Combustion and Flame, Accepted.
+[2] Wang, T., Yi, Y., Yao, J., Xu, Z.J., Zhang, T., Chen, Z., "Enforcing Physical Conservation in Neural Network Surrogate Models for Complex Chemical Kinetics," Combustion and Flame, 275, 2025.
+https://doi.org/10.1016/j.combustflame.2025.114105
 
 ## License
 Apache-2.0
